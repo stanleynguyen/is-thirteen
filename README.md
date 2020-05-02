@@ -6,6 +6,7 @@
 ![](https://github.com/stanleynguyen/is-thirteen/workflows/test/badge.svg)
 ![](https://github.com/stanleynguyen/is-thirteen/workflows/lint/badge.svg)
 [![codecov](https://codecov.io/gh/stanleynguyen/is-thirteen/branch/master/graph/badge.svg)](https://codecov.io/gh/stanleynguyen/is-thirteen)
+[![Go Report Card](https://goreportcard.com/badge/github.com/stanleynguyen/is-thirteen)](https://goreportcard.com/report/github.com/stanleynguyen/is-thirteen)
 
 Check if a number is equal to 13. A port of [this NPM module](https://github.com/jezen/is-thirteen).
 

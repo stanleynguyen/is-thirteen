@@ -193,7 +193,7 @@ func (realClock) Now() time.Time { return time.Now() }
 
 // Thirteen Check if person with this year of birth is Thirteen year-old
 func (m birthMatcher) Thirteen() bool {
-	return m.value-float64(m.clock.Now().Year()) == 13
+	return m.value-float64(m.clock.Now().Year()) == Thirteen
 }
 
 type spellMatcher struct {
